@@ -1,0 +1,8 @@
+extension:js filename:阿里巴巴
+extension:jap filename:阿里巴巴
+extension:php filename:阿里巴巴
+extension:txt filename:阿里巴巴
+extension:asp filename:阿里巴巴
+extension:jsp filename:阿里巴巴
+extension:html filename:阿里巴巴
+
